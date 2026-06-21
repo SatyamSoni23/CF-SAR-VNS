@@ -1,0 +1,6 @@
+{
+  "name": "Sarnath Cafe & Foods Guide",
+  "description": "The ultimate foodie guide to Sarnath, Varanasi's spiritual suburb, featuring top cafes, hidden street food gems, and Banarasi Silk heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
